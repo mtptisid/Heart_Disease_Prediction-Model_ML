@@ -19,7 +19,7 @@ This is a web-based application that predicts the 10-year risk of heart disease 
 ## How to Run the Application
 1. **Clone the Repository**: Download or clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/heart-disease-prediction.git
+    git clone https://github.com/mtptisid/Heart_Disease_Prediction-Model_ML.git
     ```
 2. **Install Dependencies**: Make sure you have Python 3.x installed. Then, install the required Python libraries.
     ```bash
