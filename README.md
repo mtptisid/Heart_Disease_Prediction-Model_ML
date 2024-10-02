@@ -29,10 +29,11 @@ cd Heart_Disease_Prediction-Model_ML
 2. **Create a Virtual Environment**
 
 Run the following command to create a virtual environment:
-    ```bash
-    python3 -m venv myenv
-    ```
-3. Activate the Virtual Environment
+```bash
+python3 -m venv myenv
+```
+
+3. **Activate the Virtual Environment**.
 
 On Linux/Mac:
 ```bash
