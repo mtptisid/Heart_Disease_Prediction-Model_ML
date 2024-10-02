@@ -58,12 +58,16 @@ This project is licensed under the MIT License.
 - Add visual representations of risk factors.
 - Enhance the machine learning model for improved accuracy.
 
-## Demo
-[![Heart Disease Prediction Demo](https://img.shields.io/badge/Demo-Link-blue)](http://your-demo-link.com)
+## Screenshots
+
+<img width="1440" alt="Screenshot 2024-10-02 at 7 36 12 PM" src="https://github.com/user-attachments/assets/a46c1b43-f83d-441f-910b-9250da3b1f43">
+
+
+<img width="1440" alt="Screenshot 2024-10-02 at 7 36 02 PM" src="https://github.com/user-attachments/assets/9bdc4d54-6887-43f0-8cdb-7f2c2d482abd">
 
 ## Contributing
 Feel free to submit a pull request if you want to contribute to this project!
 
 ---
-**Developed by Your Name**
+**Developed by Siddharamayya**
 
