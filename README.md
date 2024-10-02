@@ -44,7 +44,7 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```
 5. **Run the Application**: Start the Flask app by running the following command:
     ```bash
-    python app.py
+    flask run
     ```
 6. **Access the Application**: Open a browser and go to `http://127.0.0.1:5000/` to access the prediction form.
 
