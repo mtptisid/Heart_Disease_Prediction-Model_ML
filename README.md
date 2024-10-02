@@ -21,10 +21,14 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```bash
     git clone https://github.com/mtptisid/Heart_Disease_Prediction-Model_ML.git
     ```
+Navigate to your project directory and
+```bash
+cd Heart_Disease_Prediction-Model_ML
+```
 
 2. **Create a Virtual Environment**
 
-Navigate to your project directory and run the following command to create a virtual environment:
+Run the following command to create a virtual environment:
 ```bash
 python3 -m venv myenv
 ```
