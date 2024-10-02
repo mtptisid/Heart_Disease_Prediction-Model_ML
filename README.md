@@ -21,23 +21,23 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```bash
     git clone https://github.com/mtptisid/Heart_Disease_Prediction-Model_ML.git
     ```
-Navigate to your project directory and
-```bash
-cd Heart_Disease_Prediction-Model_ML
-```
+Navigate to your project directory.
+    ```bash
+    cd Heart_Disease_Prediction-Model_ML
+    ```
 
 2. **Create a Virtual Environment**
 
 Run the following command to create a virtual environment:
-```bash
-python3 -m venv myenv
-```
+    ```bash
+    python3 -m venv myenv
+    ```
 3. Activate the Virtual Environment
 
 On Linux/Mac:
-```bash
-source myenv/bin/activate
-```
+    ```bash
+    source myenv/bin/activate
+    ```
 
 4. **Install Dependencies**: Make sure you have Python 3.x installed. Then, install the required Python libraries.
     ```bash
