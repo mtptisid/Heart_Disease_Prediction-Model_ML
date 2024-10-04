@@ -37,6 +37,10 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```bash
     source myenv/bin/activate
     ```
+   On Windows:
+    ```bash
+    myenv\Scripts\activate
+    ```
 
 4. **Install Dependencies**: Make sure you have Python 3.x installed. Then, install the required Python libraries.
     ```bash
