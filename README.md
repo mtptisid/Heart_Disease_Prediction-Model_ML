@@ -33,6 +33,7 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```
 
 3. **Activate the Virtual Environment**.
+
    On Linux/Mac:
     ```bash
     source myenv/bin/activate
@@ -42,15 +43,15 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     myenv\Scripts\activate
     ```
 
-4. **Install Dependencies**: Make sure you have Python 3.x installed. Then, install the required Python libraries.
+5. **Install Dependencies**: Make sure you have Python 3.x installed. Then, install the required Python libraries.
     ```bash
     pip install -r requirements.txt
     ```
-5. **Run the Application**: Start the Flask app by running the following command:
+6. **Run the Application**: Start the Flask app by running the following command:
     ```bash
     flask run
     ```
-6. **Access the Application**: Open a browser and go to `http://127.0.0.1:5000/` to access the prediction form.
+7. **Access the Application**: Open a browser and go to `http://127.0.0.1:5000/` to access the prediction form.
 
 ## Input Fields
 - Gender (Male/Female)
