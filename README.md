@@ -86,6 +86,10 @@ This project is licensed under the MIT License.
 
 <img width="1440" alt="Screenshot 2024-10-02 at 7 36 12 PM" src="https://github.com/user-attachments/assets/a46c1b43-f83d-441f-910b-9250da3b1f43">
 
+<img width="743" alt="Screenshot 2024-10-05 at 12 56 35 PM" src="https://github.com/user-attachments/assets/1cbf3b79-6bb6-4807-b37b-a18535b29671">
+
+<img width="575" alt="Screenshot 2024-10-05 at 12 56 53 PM" src="https://github.com/user-attachments/assets/452c3541-eec2-4a68-8acc-173162469820">
+
 ---
 ## Contact Me
 **Developed by Siddharamayya M**
