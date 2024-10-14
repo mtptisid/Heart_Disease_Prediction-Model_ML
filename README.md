@@ -51,7 +51,12 @@ This is a web-based application that predicts the 10-year risk of heart disease 
     ```bash
     flask run
     ```
-7. **Access the Application**: Open a browser and go to `http://127.0.0.1:5000/` to access the prediction form.
+    or
+   ```bash
+   python app.py
+   ```
+   
+8. **Access the Application**: Open a browser and go to `http://127.0.0.1:5000/` to access the prediction form.
 
 ## Input Fields
 - Gender (Male/Female)
