@@ -100,7 +100,7 @@ This project is licensed under the MIT License.
 **Developed by Siddharamayya M**
 Feel free to submit a pull request if you want to contribute to this project!
 
-- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [My Portfolio ** Siddharamayya M **](https://mtptisid.github.io)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white) [My Portfolio - Siddharamayya M ](https://mtptisid.github.io)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [      GitHub](https://github.com/mtptisid)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/siddharamayya-mathapati)
 - ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Instagram](https://instagram.com/its_5iD)
